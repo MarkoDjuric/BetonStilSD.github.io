@@ -1,0 +1,274 @@
+.navbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: #2d2d30;
+    color: rgba(255, 140, 0, 0.842);
+    /*padding: 1% 0;*/
+    font-size: 12px;
+    letter-spacing: 2px;
+    border: 0;
+    opacity: 0.9;
+
+}
+
+.navbar-inverse .navbar-nav .active a,
+.navbar-inverse .navbar-nav .active a:focus,
+.navbar-inverse .navbar-nav .active a:hover {
+    color: #FFF;
+    background-color: rgba(255, 140, 0, 0.842);
+}
+
+.navbar-inverse .navbar-nav li a {
+    color: #FFF;
+}
+
+.navbar-brand {
+    background-color: #FFF !important;
+
+}
+
+
+.navbar li a,
+.navbar .navbar-brand {
+    color: rgba(255, 140, 0, 0.842) !important;
+}
+
+.navbar-nav li a:hover {
+    color: #fff !important;
+    font-weight: 500;
+
+}
+
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color: rgba(255, 140, 0, 0.842) !important;
+
+}
+
+.navbar li:hover {
+    background-color: rgba(255, 140, 0, 0.842);
+
+}
+
+#slika-logo {
+    position: relative;
+    top: -12px;
+    background-color: #FFF;
+
+
+}
+
+.carousel-caption {
+    top: 50%;
+    transform: translateY(-50%);
+    text-transform: uppercase;
+}
+
+.btn {
+    font-size: 18px;
+    color: rgb(234, 236, 217);
+    padding: 12px 22px;
+    background: rgb(245, 88, 32);
+    border-color: #807b8d;
+    /*border: #D54B11 solid; */
+    border-width: 4px;
+    line-height: 1;
+
+}
+
+.btn-default:hover {
+    background-color: #DF602E;
+}
+
+.container {
+    margin: 4% auto;
+}
+
+#slajd {
+    width: 100%;
+}
+
+.carousel-inner img {
+    width: 100%;
+    min-height: 320px;
+}
+
+.opis {
+    border-bottom: 3px solid rgba(255, 140, 0, 0.842);
+    color: #000;
+}
+
+#par1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color: #555151;
+
+}
+
+.onama {
+    border-bottom: 1px solid rgb(221, 66, 19);
+    color: #e44b0f;
+}
+
+#icon {
+    max-width: 200px;
+    margin: 1% auto;
+}
+
+
+.thumbnail {
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    background: none;
+}
+
+.thumbnail img {
+    border: 1px solid rgb(158, 165, 192);
+    transform: scale(1);
+    margin-bottom: 10px;
+
+}
+
+
+
+
+.fa {
+    padding: 15px!important;
+    font-size: 25px!important;
+    color: #FE6400!important;
+}
+
+.fa:hover {
+    color: #FFF!important;
+    text-decoration: none;
+}
+
+@media (max-width: 900px) {
+    .fa {
+        font-size: 20px;
+        padding: 10px;
+    }
+}
+
+@media (max-width: 600px) {
+    .carousel-caption {
+        display: none;
+    }
+    .icon {
+        max-width: 150px;
+    }
+    h2 {
+        font-size: 1.7em;
+    }
+}
+
+footer {
+    width: 100%;
+    background-color: #3D3C3C;
+    padding: 3%;
+    color: #F6C437;
+}
+
+
+.no-space .box {
+    margin: 0 -15px;
+    padding: 0;
+}
+
+.no-space.padding-horizontal {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.contact-us {
+
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    min-height: 200px;
+
+}
+
+.contact-us .fields {
+
+    background: rgba(7, 5, 5, 0.781);
+    min-height: 200px;
+    color: #DDD;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+.contact-us textarea {
+    height: 105px;
+}
+
+.contact-us input[type="text"],
+.contact-us textarea {
+    color: black
+}
+
+.glyphicon {
+    color: #ff6600;
+
+}
+
+.span-kont {
+    font-size: 15px;
+    margin-top: 12px;
+    margin-left: 10px;
+    text-align: left;
+    position: relative;
+    top: -13px;
+}
+
+#mejl {
+    margin-top: -10px;
+}
+
+#googleMap {
+    width: 100%;
+    /* Span the entire width of the screen */
+    height: 400px;
+    /* Set the height to 400 pixels */
+}
+
+#kontnaslov {
+    color: #df602e;
+position: relative;
+bottom:10px;
+font-size: 31px;
+
+
+
+}
+#linija {
+    position: relative;
+    bottom: 20px;
+}
+
+@media (max-width:768px) {
+    .span-kont {
+        padding-top: 20px;
+        text-align: center;
+
+
+    }
+    #viber {
+        position: relative;
+        left: -30px;
+
+    }
+}
+
+.tel {
+    position: relative;
+    left: -2px;
+
+} 
+ #logo-futer {
+    padding-bottom: 8px;
+}

@@ -1,0 +1,144 @@
+body {
+    background: url(img2/bordokocka.jpg);
+  }
+
+  h3 {
+    color: rgb(56, 23, 11);
+  }
+
+
+  .navbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: #2d2d30;
+    color: rgba(255, 140, 0, 0.842);
+    /*padding: 1% 0;*/
+    font-size: 12px;
+    letter-spacing: 2px;
+    border: 0;
+    opacity: 0.9;
+
+  }
+
+  .navbar-inverse .navbar-nav .active a,
+  .navbar-inverse .navbar-nav .active a:focus,
+  .navbar-inverse .navbar-nav .active a:hover {
+    color: #FFF;
+    background-color: rgba(255, 140, 0, 0.842);
+  }
+
+  .navbar-inverse .navbar-nav li a {
+    color: #FFF;
+  }
+
+  .navbar-brand {
+    background-color: #FFF !important;
+
+  }
+
+
+  .navbar li a,
+  .navbar .navbar-brand {
+    color: rgba(255, 140, 0, 0.842) !important;
+  }
+
+  .navbar-nav li a:hover {
+    color: #fff !important;
+    font-weight: 500;
+
+  }
+
+  .navbar-nav li.active a {
+    color: #fff !important;
+    background-color: rgba(255, 140, 0, 0.842) !important;
+
+  }
+
+  .navbar li:hover {
+    background-color: rgba(255, 140, 0, 0.842);
+
+  }
+
+
+
+  .btn {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #f1f1f1;
+    border-radius: 0;
+    transition: .2s;
+  }
+
+  .btn:hover,
+  .btn:focus {
+    border: 1px solid #333;
+    background-color: #fff;
+    color: #000;
+  }
+
+  #logo {
+    position: relative;
+    top: -12px;
+    background-color: #FFF;
+
+
+  }
+
+
+  #proizvodi {
+    position: relative;
+    top: 100px;
+
+  }
+
+  .caption {
+    background-color: rgb(189, 70, 63);
+    margin: 0;
+  }
+
+
+
+  .fa {
+    padding: 15px;
+    font-size: 25px;
+    color: #FE6400;
+  }
+
+  .fa:hover {
+    color: #FFF;
+    text-decoration: none;
+  }
+
+  @media (max-width: 900px) {
+    .fa {
+      font-size: 20px;
+      padding: 10px;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none;
+    }
+    .icon {
+      max-width: 150px;
+    }
+    h2 {
+      font-size: 1.7em;
+    }
+  }
+
+  footer {
+    position: relative;
+    top: 150px;
+    width: 100%;
+    background-color: #3D3C3C;
+    padding: 3%;
+    color: #F6C437;
+  }
+
+  .opis-proizvoda {
+    font-size: 17px;
+    color: rgb(241, 215, 215)
+  }

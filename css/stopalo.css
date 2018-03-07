@@ -1,0 +1,134 @@
+.navbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: #2d2d30;
+    color: rgba(255, 140, 0, 0.842);
+    /*padding: 1% 0;*/
+    font-size: 12px;
+    letter-spacing: 2px;
+    border: 0;
+    opacity: 0.9;
+
+}
+
+.navbar-inverse .navbar-nav .active a,
+.navbar-inverse .navbar-nav .active a:focus,
+.navbar-inverse .navbar-nav .active a:hover {
+    color: #FFF;
+    background-color: rgba(255, 140, 0, 0.842);
+}
+
+.navbar-inverse .navbar-nav li a {
+    color: #FFF;
+}
+
+.navbar-brand {
+    background-color: #FFF !important;
+
+}
+
+
+.navbar li a,
+.navbar .navbar-brand {
+    color: rgba(255, 140, 0, 0.842) !important;
+}
+
+.navbar-nav li a:hover {
+    color: #fff !important;
+    font-weight: 500;
+
+}
+
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color: rgba(255, 140, 0, 0.842) !important;
+
+}
+
+.navbar li:hover {
+    background-color: rgba(255, 140, 0, 0.842);
+
+}
+
+#slika-logo {
+    position: relative;
+    top: -12px;
+    background-color: #FFF;
+
+
+}
+
+
+#proizvod {
+    width: 50%;
+    position: relative;
+    top: 100px;
+
+
+}
+
+
+
+.container {
+    position: relative;
+    top: 100px;
+
+
+
+}
+
+#slika-odabir {
+    position: relative;
+    right: 14px;
+}
+
+
+
+
+.naslov-galerije {
+    margin-left: 14px;
+}
+
+.vertical-img {
+    height: 87px;
+    width: 200px;
+}
+
+
+footer {
+    width: 100%;
+    padding-top: 20px;
+    background-color: #3D3C3C;
+    padding: 3%;
+    color: #F6C437;
+    position: relative;
+    top: 150px;
+}
+
+
+.fa {
+    padding: 15px!important;
+    font-size: 25px!important;
+    color: #FE6400!important;
+    padding-top: 20px;
+}
+
+.fa:hover {
+    color: #FFF!important;
+    text-decoration: none;
+}
+
+@media (max-width: 900px) {
+    .fa {
+        font-size: 20px;
+        padding: 10px;
+    }
+}
+
+#tekst {
+    font-size: 16px;
+}
+#logo-futer {
+    padding-bottom: 8px;
+}
