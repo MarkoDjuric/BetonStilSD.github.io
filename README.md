@@ -8,4 +8,6 @@ Dodate glavne kljucne reci.
 
 Verifikacija i optimizacija koda uradjena.
 
+Projekat je uradjen bez templeta.
+
 
