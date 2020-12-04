@@ -140,5 +140,8 @@ body {
 
   .opis-proizvoda {
     font-size: 17px;
-    color: rgb(241, 215, 215)
-  }
+    color: rgb(241, 215, 215);
+    padding: 0.5em;
+  
+}
+  
