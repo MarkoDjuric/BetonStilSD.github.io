@@ -56,8 +56,6 @@
             position: relative;
             top: -12px;
             background-color: #FFF;
-
-
         }
 
 
@@ -65,8 +63,6 @@
             width: 50%;
             position: relative;
             top: 100px;
-
-
         }
 
 
@@ -74,25 +70,17 @@
         .container {
             position: relative;
             top: 100px;
-
-
-
         }
+
 
         #slika-odabir {
             position: relative;
             right: 14px;
         }
 
-
-
-
-        .naslov-galerije {
+           .naslov-galerije {
             margin-left: 14px;
         }
-
-
-
 
         footer {
             width: 100%;
@@ -102,7 +90,6 @@
             position: relative;
             top: 150px;
         }
-
 
         .fa {
             padding: 15px;
@@ -126,6 +113,15 @@
         #tekst {
             font-size: 16px;
         }
+
         #logo-futer {
             padding-bottom: 8px;
         }
+  
+
+
+
+
+ 
+
+
