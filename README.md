@@ -1,4 +1,4 @@
- #Sajt za firmu "BetonStilSD"               
+ #Website "BetonStilSD"               
 
 Koriscene tehnologije 🛠  :
 
