@@ -1,4 +1,4 @@
- # Website "BetonStilSD"          ![Screenshot](bootstrap.svg)      ![Screenshot](jq.svg)    
+ # Website "BetonStilSD"          ![Screenshot](bootstrap.svg)      ![Screenshot](jqb.svg)    
 
 Koriscene tehnologije 🛠  :
 
