@@ -1,4 +1,4 @@
- # Website "BetonStilSD"          ![Screenshot](b48.svg)   ![Screenshot](javascript.png)      ![Screenshot](jqb.svg)    
+ # Website "BetonStilSD"          ![Screenshot](32b.svg)   ![Screenshot](javascript.png)      ![Screenshot](jqb.svg)    
 
 Koriscene tehnologije 🛠  :
 
