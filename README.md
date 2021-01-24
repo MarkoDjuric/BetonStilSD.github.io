@@ -1,4 +1,4 @@
-Projekat : Sajt za firmu "BetonStilSD";                     https://markodjuric.github.io/BetonStilSD.github.io/
+ #Sajt za firmu "BetonStilSD"               
 
 Koriscene tehnologije 🛠  :
 
