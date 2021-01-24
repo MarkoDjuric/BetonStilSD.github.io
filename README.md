@@ -1,4 +1,4 @@
- # Website "BetonStilSD"   ![Screenshot](icons8-bootstrap.svg)            
+ ![Screenshot](icons8-bootstrap.svg)  # Website "BetonStilSD"             
 
 Koriscene tehnologije 🛠  :
 
